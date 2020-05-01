@@ -48,14 +48,14 @@ The 3-tiered architecture shown above has the following major components:
 
 SCREENSHOTS
 HOME PAGE
-![ ](Screenshot/Screenshot (15).png)
+![ ](Screenshot/(15).png)
 
 ABOUT PAGE
 ![ ](Screenshot/Screenshot (16).png)
 
 CREATE ACCOUNT PAGE
 ![ ](Screenshot/Screenshot (17).png)
-  
+ 
 
 LOGIN PAGE
 ![ ](Screenshot/Screenshot (18).png)
