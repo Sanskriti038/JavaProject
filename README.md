@@ -69,23 +69,23 @@ LOGIN PAGE
 ![ ](images/4.png)
 
 DEPOSIT SCHEMES PAGE
-![ ](images/5.png)
+![ ](images/12.png)
  
 SILVER SCHEME PAGE
-![ ](images/6.png) 
+![ ](Screenshot/Screenshot%20(30).png) 
 
 BRONZE SCHEME PAGE
-![ ](images/7.png)  
+![ ](Screenshot/Screenshot%20(31).png)  
 
 LOAN REQUEST PAGE
-![ ](images/8.png)  
+![ ](images/9.png)  
 
 CONFORMATION PAGE
-![ ](images/9.png)
- 
-TRANSFER PAGE
 ![ ](images/10.png)
  
+TRANSFER PAGE
+![ ](images/8.png)
+ 
 WITHDRAW PAGE
-![ ](images/12.png)
+![ ](images/7.png)
 
