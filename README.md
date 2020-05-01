@@ -48,37 +48,37 @@ The 3-tiered architecture shown above has the following major components:
 
 SCREENSHOTS
 HOME PAGE
-![ ](Screenshot/11.png)
+![ ](Screenshot/Screenshot (15).png)
 
 ABOUT PAGE
-
+![ ](Screenshot/Screenshot (16).png)
 
 CREATE ACCOUNT PAGE
-
+![ ](Screenshot/Screenshot (17).png)
   
 
 LOGIN PAGE
-
+![ ](Screenshot/Screenshot (18).png)
 
 DEPOSIT SCHEMES PAGE
-
+![ ](Screenshot/Screenshot (19).png)
  
 SILVER SCHEME PAGE
- 
+![ ](Screenshot/Screenshot (20).png) 
 
 BRONZE SCHEME PAGE
-  
+![ ](Screenshot/Screenshot (21).png)  
 
 LOAN REQUEST PAGE
-  
+![ ](Screenshot/Screenshot (22).png)  
 
 CONFORMATION PAGE
-
+![ ](Screenshot/Screenshot (23).png)
  
 TRANSFER PAGE
-
+![ ](Screenshot/Screenshot (24).png)
  
 WITHDRAW PAGE
-
+![ ](Screenshot/Screenshot (25).png)
 
 
