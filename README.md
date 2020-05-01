@@ -18,19 +18,27 @@ The main purpose of Online Banking Solution is to provide customers with an abil
 Facilities provided
 
 
+
 •	View Account: Customer is authorized to check his account.
 
+
 •	Transfer Money: Customer can transfer money online over a secure passage to another account.
+
 
 •	Application Forms: Different forms such as new cheque book request, change of address etc can be downloaded.
 
+
 •	Customer Help: A document enabling customers to understand Online Banking.
+
 
 •	Transfer Money: Customer can transfer money online over a secure passage to another account.
 
+
 •	Withdraw Money: Customer can withdraw money online over a secure passage from there account.
 
+
 • Loan Request : Customer can make loan reqeusts online over a secure passage to bank.
+
 
 •	Deposit Schemes : Customer can deposit money online over a secure passage for there account.
 
@@ -44,41 +52,40 @@ The 3-tiered architecture shown above has the following major components:
 •	Application Server: It takes care of the server script, takes care of JDBC-ODBC driver, and checks for the ODBC connectivity for mapping to the database in order to fulfill client and administrator’s request.
 
 •	Database: Database Servers will stores customer’s and bank da
-![ ](Screenshot/11.png)
+![ ](images/11.png)
 
 SCREENSHOTS
 HOME PAGE
-![ ](Screenshot/(15).png)
+![ ](images/1.png)
 
 ABOUT PAGE
-![ ](Screenshot/Screenshot (16).png)
+![ ](images/2.png)
 
 CREATE ACCOUNT PAGE
-![ ](Screenshot/Screenshot (17).png)
+![ ](images/3.png)
  
 
 LOGIN PAGE
-![ ](Screenshot/Screenshot (18).png)
+![ ](images/4.png)
 
 DEPOSIT SCHEMES PAGE
-![ ](Screenshot/Screenshot (19).png)
+![ ](images/5.png)
  
 SILVER SCHEME PAGE
-![ ](Screenshot/Screenshot (20).png) 
+![ ](images/6.png) 
 
 BRONZE SCHEME PAGE
-![ ](Screenshot/Screenshot (21).png)  
+![ ](images/7.png)  
 
 LOAN REQUEST PAGE
-![ ](Screenshot/Screenshot (22).png)  
+![ ](images/8.png)  
 
 CONFORMATION PAGE
-![ ](Screenshot/Screenshot (25).png)
+![ ](images/9.png)
  
 TRANSFER PAGE
-![ ](Screenshot/Screenshot (26).png)
+![ ](images/10.png)
  
 WITHDRAW PAGE
-![ ](Screenshot/Screenshot (28).png)
-
+![ ](images/12.png)
 
