@@ -89,3 +89,11 @@ TRANSFER PAGE
 WITHDRAW PAGE
 ![ ](images/7.png)
 
+ENTITY RELATIONSHIP DIAGRAM
+![ ](entity-relationship-diagram.png)
+
+DATAFLOW DIAGRAM
+![ ](dataflow.png)
+
+ACTIVITY DIAGRAM
+![ ](activity.jpg)
