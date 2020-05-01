@@ -44,11 +44,11 @@ The 3-tiered architecture shown above has the following major components:
 •	Application Server: It takes care of the server script, takes care of JDBC-ODBC driver, and checks for the ODBC connectivity for mapping to the database in order to fulfill client and administrator’s request.
 
 •	Database: Database Servers will stores customer’s and bank da
-![ ](images/filename.png)
+![ ](Screenshot/11.png)
 
 SCREENSHOTS
 HOME PAGE
-
+![ ](Screenshot/11.png)
 
 ABOUT PAGE
 
