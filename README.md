@@ -73,12 +73,12 @@ LOAN REQUEST PAGE
 ![ ](Screenshot/Screenshot (22).png)  
 
 CONFORMATION PAGE
-![ ](Screenshot/Screenshot (23).png)
+![ ](Screenshot/Screenshot (25).png)
  
 TRANSFER PAGE
-![ ](Screenshot/Screenshot (24).png)
+![ ](Screenshot/Screenshot (26).png)
  
 WITHDRAW PAGE
-![ ](Screenshot/Screenshot (25).png)
+![ ](Screenshot/Screenshot (28).png)
 
 
